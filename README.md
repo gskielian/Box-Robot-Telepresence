@@ -1,4 +1,4 @@
 Box-Robot-Telepresence
 ======================
 
-Google Hangouts + Robox
+Android Phone + Google Hangouts + Robox
